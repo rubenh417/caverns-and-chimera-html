@@ -1,3 +1,3 @@
 # caverns-and-chimera-html
 a mockup of a website using HTML &amp; CSS
-<img class="screenshot" src=""C:\Users\dream\OneDrive\Pictures\Screenshots\2023-02-20 (1).png"></a>
+![2023-02-20 (1)](https://user-images.githubusercontent.com/101365582/220192407-77e24bb8-4b55-49bd-85fd-8203252cdfbb.png)
